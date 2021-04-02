@@ -2,7 +2,7 @@
 tower-cli job launch --job-template=49 --credential="pedro.schawirinadm" --extra-vars="adquirente: DMCard"
 tower-cli job launch --job-template=123 --credential="pedro.schawirinadm" --extra-vars="adquirente: DMCard"
 tower-cli job launch --job-template=125 --credential="pedro.schawirinadm" --extra-vars="adquirente: DMCard"
-tower-cli job launch --job-template=23 --credential="pedro.schawirinadm" --extra-vars="adquirente: DMCARD"
+tower-cli job launch --job-template=23 --credential="pedro.schawirinadm" --extra-vars="grupo_de_vpn: DMCARD"
 
 
 
